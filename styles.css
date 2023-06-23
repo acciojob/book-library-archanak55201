@@ -10,18 +10,18 @@ body{
 	width:220px;
 	
 }
-h2{
+h1{
 	background-color:#f8f8f8;		
 	text-align:center;
 }
 .book{
 	margin-bottom:20px;
-	background-color:#f8f8f8;	
+	background-color:rgb(255,255,255);	
 	text-align:center;
 	padding:10px
 	
 }
-p{
+h2{
 	text-align:left;
 }
 .author{
